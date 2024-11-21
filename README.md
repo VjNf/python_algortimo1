@@ -1,2 +1,2 @@
-# python_algortimo1
+# python_algoritmo
 Alua de resisáo python
